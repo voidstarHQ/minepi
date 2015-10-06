@@ -18,7 +18,7 @@ And if π's decimals are not uniformely spread enough, then [other](http://en.wi
 
 ### Inspiration
 [πfs](https://github.com/philipl/pifs)
-They did a more thorough, pedagogical & fun explaination than we did here.
+They did a more thorough, pedagogical & fun explanation than we did here.
 We encourage you to go over there and go through the README.
 
 ### Visualisation technology
