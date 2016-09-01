@@ -75,10 +75,19 @@ sqrt_succ (State) ->
 
 translate (#{data := Device}) ->
     case file:read(Device, 2) of
-        {ok, <<High, Low>>} ->
-            10 * (High - $0) + Low - $0;
+        {ok, <<High, Low>>}
+          when $0 =< High, High =< $9,
+               $0 =< Low, Low =< $9 ->
+            coalesce($9, $0, High, Low);
+        {ok, <<High, Low>>}
+          when $a =< High, High =< $z,
+               $a =< Low, Low =< $z ->
+            coalesce($z, $a, High, Low);
         _ -> halt(0)
     end.
+
+coalesce (Top, Bottom, High, Low) ->
+    (Top + 1 - Bottom) * (High - Bottom) + Low - Bottom.
 
 fail (Fmt, Args) ->
     io:format(standard_error, Fmt++"\n", Args),
