@@ -22,6 +22,7 @@ They did a more thorough, pedagogical & fun explanation than we did here.
 We encourage you to go over there and go through the README.
 
 ### Visualisation technology
+* [binvis.io - a browser-based tool for visualising binary data](https://corte.si/posts/binvis/announce/index.html)
 * [..cantor.dust..'s patterns](https://sites.google.com/site/xxcantorxdustxx/visual-re)
 * [Visualizing Entropy in Binary Files](https://news.ycombinator.com/item?id=8577401) (..cantor.dust..'s inspiration)
 * [Christopher Domas's talk @ Derbycon 2012](https://www.youtube.com/watch?v=4bM3Gut1hIk) (..cantor.dust..'s creator)
