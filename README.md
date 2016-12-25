@@ -28,6 +28,7 @@ We encourage you to go over there and go through the README.
 * [Christopher Domas's talk @ Derbycon 2012](https://www.youtube.com/watch?v=4bM3Gut1hIk) (..cantor.dust..'s creator)
 
 ### Mining data
+* [Bailey–Borwein–Plouffe formula & the P(s,b,m,A) function](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula)
 * [π to a million places](http://newton.ex.ac.uk/research/qsystems/collabs/pi/pi6.txt)
 * [Chronology of computation of π](http://en.wikipedia.org/wiki/Chronology_of_computation_of_%CF%80)
 So… terabytes of data!
