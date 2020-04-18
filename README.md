@@ -13,8 +13,9 @@ To help grasp the concept that π decimals, ie. *numbers*, in fact can be a JPEG
 * [The Free Speech flag](http://en.wikipedia.org/wiki/AACS_encryption_key_controversy)
 
 ### Rationale
-If π is a [normal number](http://en.wikipedia.org/wiki/Normal_number), meaning its infinite sequence of decimals contains every sequence of digits possible, then we have an equivalent of the text ouput by [a monkey spending infinite time on a typewriter](http://en.wikipedia.org/wiki/Infinite_monkey_theorem). Then, if our approximate theoretical guess is not too bad, it is only a matter of time before someone finds Hamlet in π. And in all the written or filmed versions!
+[Is Pi normal?](http://info.sjc.ox.ac.uk/users/gualtieri/Is%20Pi%20normal.htm) If π is a [normal number](http://en.wikipedia.org/wiki/Normal_number), meaning its infinite sequence of decimals contains every sequence of digits possible, then we have an equivalent of the text ouput by [a monkey spending infinite time on a typewriter](http://en.wikipedia.org/wiki/Infinite_monkey_theorem). Then, if our approximate theoretical guess is not too bad, it is only a matter of time before someone finds Hamlet in π. And in all the written or filmed versions!
 And if π's decimals are not uniformely spread enough, then [other](http://en.wikipedia.org/wiki/Champernowne_constant) [computable constants](http://en.wikipedia.org/wiki/Copeland%E2%80%93Erd%C5%91s_constant) are known to be normal numbers…
+See also [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/webcam).
 
 ### Inspiration
 [πfs](https://github.com/philipl/pifs)
